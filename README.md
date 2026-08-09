@@ -5,7 +5,7 @@ Frontend Developer with 2 years of experience building web applications using **
 - 💻 Currently working as a **Frontend Developer**, focused on Angular
 - 🌱 Currently learning: *[e.g. NgRx, Angular Signals, Next.js — fill in]*
 - 🛠️ Tech I work with: Angular, TypeScript, JavaScript, HTML5, CSS/SCSS, RxJS
-- 📫 Reach me at: *[email or LinkedIn URL]*
+- 📫 Reach me at: https://www.linkedin.com/in/rahul-maheshwad-7a0393208?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📍 Based in Bengaluru, India
 
 ---
